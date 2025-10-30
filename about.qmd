@@ -1,0 +1,97 @@
+---
+title: "Resume"
+about:
+    template: solana
+    links:
+        - icon: github
+          text: Github
+          href: https://www.github.com/linda-wakamoto
+        - icon: linkedin
+          text: LinkedIn
+          href: https://www.linkedin.com/in/lindawakamoto
+        - icon: file
+          text: Resume
+          href: https://docs.google.com/document/d/1nL6tFj4LideodgdAIqla3gtP4cOxkGQuoQSvkvoLmXE/edit?usp=sharing
+
+toc: false
+    
+---
+
+### Education
+
+- MASDS, Applied Statistics and Data Science, UCLA | 2024 - Present
+- B.S., Statistics, Brown University | 2019 - 2023
+- B.A., Public Health, Brown University | 2019 - 2023 
+
+### Work Experience
+
+- Data Science Intern, Oracle | 2025
+- Data Analyst, Medical Nutrition Network | 2023 - 2025
+- Research Intern, Boston University | 2022
+
+##### Here is my [full resume with more details on my responsibilities](https://docs.google.com/document/d/1nL6tFj4LideodgdAIqla3gtP4cOxkGQuoQSvkvoLmXE/edit?usp=sharing)
+
+
+### Certifications
+
+- Oracle AI Agent Studio Certification
+- Google Data Analytics Professional Certificate
+- Analyzing Big Data with SQL
+
+### Skills
+
+Programming:
+
+- Python
+- R
+- SQL
+- C
+- MATLAB
+
+Data Visualization:
+
+- Tableau
+
+Data Management:
+
+- AWS
+
+Other:
+
+- Microsoft Office Suite (Word, Excel, PowerPoint)
+- Google Apps (Docs, Sheets, Slides)
+- Overleaf/Linux
+- Confluence
+- Figma
+- Canva
+
+### Coursework
+
+UCLA, Applied Statistics and Data Science:
+
+- Machine Learning (Python)
+- Predictive and Generative AI (Python)
+- Data Management (AWS, Linux, Git)
+- Statistical Computing (Python, R, C)
+- Data Visualization (Tableau)
+
+Brown University, Statistics:
+
+- Statistical Inference
+- Statistics in Python
+- Programming in R
+- Data Analysis
+- Linear Algebra
+
+Brown Univeristy, Public Health:
+
+- Epidemiology
+- Biostatistics
+- Healthcare in the U.S.
+- Public Health
+- Social Determinants of Health
+
+
+
+
+

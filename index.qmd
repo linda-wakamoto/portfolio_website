@@ -1,0 +1,24 @@
+---
+title: "Linda Wakamoto"
+about:
+    template: solana
+    links:
+        - icon: github
+          text: Github
+          href: https://www.github.com/linda-wakamoto
+        - icon: linkedin
+          text: LinkedIn
+          href: https://www.linkedin.com/in/lindawakamoto
+        - icon: file
+          text: Resume
+          href: https://docs.google.com/document/d/1nL6tFj4LideodgdAIqla3gtP4cOxkGQuoQSvkvoLmXE/edit?usp=sharing
+
+toc: false
+    
+---
+
+Hi, I'm Linda, a 2nd year Masters student at UCLA studying Applied Statistics and Data Science. I'm interested in using **data analytics and data science methods** to produce actionable insights from complex datasets.
+
+Welcome to my website, where I have information about my resume, key projects, education, and work experience. 
+
+##### Feel free to reach out to me on [LinkedIn!](https://www.linkedin.com/in/lindawakamoto)

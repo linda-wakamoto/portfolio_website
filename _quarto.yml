@@ -1,0 +1,36 @@
+project:
+  type: website
+
+website:
+  title: "Portfolio Website"
+  sidebar:
+    contents:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - section: "Projects"
+        contents: 
+          - page1.qmd
+          - page2.qmd
+    tools:
+      - icon: github
+        text: Github
+        href: https://www.github.com/linda-wakamoto
+      - icon: linkedin
+        text: LinkedIn
+        href: https://www.linkedin.com/in/lindawakamoto
+      - icon: file
+        text: Resume
+        href: https://docs.google.com/document/d/1nL6tFj4LideodgdAIqla3gtP4cOxkGQuoQSvkvoLmXE/edit?usp=sharing
+format:
+  html:
+    theme:
+      - yeti
+      - brand
+    css: styles.css
+    toc: true
+
+output_dir: _site
+
+
+

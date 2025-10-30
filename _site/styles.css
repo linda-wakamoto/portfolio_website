@@ -1,0 +1,22 @@
+.quarto-title {
+  color: #016cb9ff; 
+}
+
+/* Sidebar tool buttons (links with icons) */
+ul.tools li a {
+  background-color: #FF69B4;  /* Pink background */
+  color: white;                /* Icon + text color */
+  border-radius: 5px;          /* Rounded corners */
+  padding: 5px 10px;
+  display: inline-flex;
+  align-items: center;
+  text-decoration: none;
+  transition: background 0.3s;
+}
+
+/* Hover effect */
+ul.tools li a:hover {
+  background-color: #C71585;   /* Darker pink on hover */
+  color: white;
+}
+

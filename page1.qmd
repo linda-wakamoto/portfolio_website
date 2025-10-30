@@ -1,0 +1,39 @@
+---
+title: "Work Projects"
+about:
+    template: solana
+    links:
+        - icon: github
+          text: Github
+          href: https://www.github.com/linda-wakamoto
+        - icon: linkedin
+          text: LinkedIn
+          href: https://www.linkedin.com/in/lindawakamoto
+        - icon: file
+          text: Resume
+          href: https://docs.google.com/document/d/1nL6tFj4LideodgdAIqla3gtP4cOxkGQuoQSvkvoLmXE/edit?usp=sharing
+toc: false
+---
+
+#### User Learnability Project
+##### Oracle
+
+- **What I did:** Analyzed 1M+ user behavior data on 11 products to define, measure, and analyze user learnability and coded an algorithm to measure this new learnability metric. Utilized Python, Excel, and machine learning models. Used Confluence for project documentation, Word for writing a blog and report with findings, and Figma for a 50+ deck Presentation to 40+ stakeholders across departments.
+
+- **Questions answered:** Which products had high learnability? Which products had low learnability? How did users improve over time on each product? If users learned the product, how many attempts did it take? What type of user used this product?
+
+
+#### Patient Demographics Analysis
+##### Medical Nutrition Network
+
+- **What I did:** Built and analyzed database of 4,244 client data and constructed tables and graphs on Excel. Reported findings of trends of patient demographics for new patient appointments to business owner to help with marketing focus
+
+- **Questions answered:** What was the most common appointment type? What month/day of the week had the most appointments, and most cancellations? How did appointment trends look over time?
+
+
+#### Infectious Diseases Project
+##### Boston Univeristy Summer Institute of Biostatistics and Data Science (SIBS)
+
+- **What I did:** Analyzed Ukranian adult data to find a possible correlation between migrant status and drug-resistant Tuberculosis prevalence using Logistic Regression and R. Collaborated with group using GitHub, presented findings and wrote a report on Overleaf.
+
+- **Questions answered:** What is the correlation between one's migrant status an drug-resistant Tuberculosis?
