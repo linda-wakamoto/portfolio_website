@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "page1.html",
+    "href": "page1.html",
+    "title": "Work Projects",
+    "section": "",
+    "text": "User Learnability Project\n\nOracle\n\nWhat I did: Analyzed 1M+ user behavior data on 11 products to define, measure, and analyze user learnability and coded an algorithm to measure this new learnability metric. Utilized Python, Excel, and machine learning models. Used Confluence for project documentation, Word for writing a blog and report with findings, and Figma for a 50+ deck Presentation to 40+ stakeholders across departments.\nQuestions answered: Which products had high learnability? Which products had low learnability? How did users improve over time on each product? If users learned the product, how many attempts did it take? What type of user used this product?\n\n\n\n\nPatient Demographics Analysis\n\nMedical Nutrition Network\n\nWhat I did: Built and analyzed database of 4,244 client data and constructed tables and graphs on Excel. Reported findings of trends of patient demographics for new patient appointments to business owner to help with marketing focus\nQuestions answered: What was the most common appointment type? What month/day of the week had the most appointments, and most cancellations? How did appointment trends look over time?\n\n\n\n\nInfectious Diseases Project\n\nBoston Univeristy Summer Institute of Biostatistics and Data Science (SIBS)\n\nWhat I did: Analyzed Ukranian adult data to find a possible correlation between migrant status and drug-resistant Tuberculosis prevalence using Logistic Regression and R. Collaborated with group using GitHub, presented findings and wrote a report on Overleaf.\nQuestions answered: What is the correlation between one’s migrant status an drug-resistant Tuberculosis?",
+    "crumbs": [
+      "Projects",
+      "Work Projects"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Education\n\nMASDS, Applied Statistics and Data Science, UCLA | 2024 - Present\nB.S., Statistics, Brown University | 2019 - 2023\nB.A., Public Health, Brown University | 2019 - 2023\n\n\n\nWork Experience\n\nData Science Intern, Oracle | 2025\nData Analyst, Medical Nutrition Network | 2023 - 2025\nResearch Intern, Boston University | 2022\n\n\nHere is my full resume with more details on my responsibilities\n\n\n\nCertifications\n\nOracle AI Agent Studio Certification\nGoogle Data Analytics Professional Certificate\nAnalyzing Big Data with SQL\n\n\n\nSkills\nProgramming:\n\nPython\nR\nSQL\nC\nMATLAB\n\nData Visualization:\n\nTableau\n\nData Management:\n\nAWS\n\nOther:\n\nMicrosoft Office Suite (Word, Excel, PowerPoint)\nGoogle Apps (Docs, Sheets, Slides)\nOverleaf/Linux\nConfluence\nFigma\nCanva\n\n\n\nCoursework\nUCLA, Applied Statistics and Data Science:\n\nMachine Learning (Python)\nPredictive and Generative AI (Python)\nData Management (AWS, Linux, Git)\nStatistical Computing (Python, R, C)\nData Visualization (Tableau)\n\nBrown University, Statistics:\n\nStatistical Inference\nStatistics in Python\nProgramming in R\nData Analysis\nLinear Algebra\n\nBrown Univeristy, Public Health:\n\nEpidemiology\nBiostatistics\nHealthcare in the U.S.\nPublic Health\nSocial Determinants of Health",
+    "crumbs": [
+      "Resume"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Linda Wakamoto",
+    "section": "",
+    "text": "Hi, I’m Linda, a 2nd year Masters student at UCLA studying Applied Statistics and Data Science. I’m interested in using data analytics and data science methods to produce actionable insights from complex datasets.\nWelcome to my website, where I have information about my resume, key projects, education, and work experience.\n\nFeel free to reach out to me on LinkedIn!",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "page2.html",
+    "href": "page2.html",
+    "title": "Academic Projects",
+    "section": "",
+    "text": "Statistical Computing Project:\n\nDetails: Independent project using Python and C, predicting apartment listing prices from listing details. Project included data cleaning, data preprocessing, exploratory data analysis and data visualization, and predictive modeling. Produced presentation of findings using Canva.\nMethods Used: Linear Regression, Kernel Regression (with C), Random Forest, XGBoost, Gradient Boost, Generalized Additive Models\nTools Used: Python, C, R, Canva\n\n\n\nPredictive and Generative AI Project:\n\nDetails: Used predictive modeling and generated synthetic data to best model Ads click through rate from user behavior data, using Python. Produced presentation of findings using PowerPoint.\nMethods Used: Logistic Regression, Random Forest, XGBoost, CatBoost, CTGAN\nTools Used: Python, PowerPoint\n\n\n\nStatistics Capstone Project\n\nDetails: Conducted statistical analysis and data modeling on large-scale data of 1,500 Medicare claims, using R and Excel to analyze correlations between social determinants of health and hypertension, leading to actionable insights. Produced well-documented reports, 5 datasets, and 3 data visualizations to highlight actionable insights, and presented findings in a PowerPoint presentation to stakeholders.\nMethods Used: Logistic Regression\nTools used: R, Excel, PowerPoint\n\n\nFor the code samples for these projects and more: My GitHub",
+    "crumbs": [
+      "Projects",
+      "Academic Projects"
+    ]
+  }
+]
