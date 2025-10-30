@@ -16,6 +16,7 @@ about:
 toc: false
     
 ---
+Here is my [full resume with more details](https://docs.google.com/document/d/1nL6tFj4LideodgdAIqla3gtP4cOxkGQuoQSvkvoLmXE/edit?usp=sharing)
 
 ### Education
 
@@ -28,9 +29,6 @@ toc: false
 - Data Science Intern, Oracle | 2025
 - Data Analyst, Medical Nutrition Network | 2023 - 2025
 - Research Intern, Boston University | 2022
-
-##### Here is my [full resume with more details on my responsibilities](https://docs.google.com/document/d/1nL6tFj4LideodgdAIqla3gtP4cOxkGQuoQSvkvoLmXE/edit?usp=sharing)
-
 
 ### Certifications
 

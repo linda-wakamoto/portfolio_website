@@ -16,7 +16,7 @@ about:
 toc: false
 --- 
 
-#### Statistical Computing Project:
+### Statistical Computing Project:
     
 - **Details:** Independent project using Python and C, predicting apartment listing prices from listing details. Project included data cleaning, data preprocessing, exploratory data analysis and data visualization, and predictive modeling. Produced presentation of findings using Canva.
     
@@ -24,7 +24,7 @@ toc: false
 
 - **Tools Used:** Python, C, R, Canva
 
-#### Predictive and Generative AI Project:
+### Predictive and Generative AI Project:
     
 - **Details:** Used predictive modeling and generated synthetic data to best model Ads click through rate from user behavior data, using Python. Produced presentation of findings using PowerPoint.
     
@@ -32,7 +32,7 @@ toc: false
 
 - **Tools Used:** Python, PowerPoint
 
-#### Statistics Capstone Project
+### Statistics Capstone Project
 
 - **Details:** Conducted statistical analysis and data modeling on large-scale data of 1,500 Medicare claims, using R and Excel to analyze correlations between social determinants of health and hypertension, leading to actionable insights. Produced well-documented reports, 5 datasets, and 3 data visualizations to highlight actionable insights, and presented findings in a PowerPoint presentation to stakeholders.
     
